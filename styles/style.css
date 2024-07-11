@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    text-align: center;
+    background-color: rgb(15, 13, 13);
+    color: white;
+    padding: 20px;
+    font-size: large;
+}
+
+center img{
+    padding: 10px;
+}
+a{
+   color: rgba(215, 215, 52, 0.9); 
+}
